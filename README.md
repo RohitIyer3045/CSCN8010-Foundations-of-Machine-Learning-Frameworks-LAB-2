@@ -1,4 +1,4 @@
-# 🧠 Diabetes Disease Progression Prediction
+# LAB 2 - MULTIVARIATE REGRESSION, NON-PARAMETRIC MODELS AND CROSS-VALIDATION
 
 This project uses the **Scikit-Learn Diabetes Dataset** to model and predict **disease progression one year after baseline**.  
 It demonstrates a full machine learning workflow — from data loading and EDA to model comparison, evaluation, and interpretation.
